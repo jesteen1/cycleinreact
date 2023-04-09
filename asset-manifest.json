@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cyclereacproject/static/css/main.c469bdca.css",
+    "main.js": "/cyclereacproject/static/js/main.5b0b608a.js",
+    "static/js/787.0c3f432a.chunk.js": "/cyclereacproject/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/cyclereacproject/index.html",
+    "main.c469bdca.css.map": "/cyclereacproject/static/css/main.c469bdca.css.map",
+    "main.5b0b608a.js.map": "/cyclereacproject/static/js/main.5b0b608a.js.map",
+    "787.0c3f432a.chunk.js.map": "/cyclereacproject/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c469bdca.css",
+    "static/js/main.5b0b608a.js"
+  ]
+}
